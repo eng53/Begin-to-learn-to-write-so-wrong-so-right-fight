@@ -1,0 +1,5 @@
+print('HELLO')
+print/ln ('KANIT')
+print('คณิต')
+print('chumas')
+print('HELLO')
